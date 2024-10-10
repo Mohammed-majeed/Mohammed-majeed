@@ -19,25 +19,18 @@ I am a passionate AI expert, specializing in developing intelligent systems and 
 ![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logo=java&logoColor=white)
 
-#### **Frontend Development**
-![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat-square&logo=css3&logoColor=white)
-
-#### **Backend Development**
-![REST API](https://img.shields.io/badge/REST_API-555555?style=flat-square&logo=api&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-555555?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-555555?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-555555?style=flat-square&logo=graphql&logoColor=white)
-
-
 #### **AI/ML & Data Science**
 ![NLP](https://img.shields.io/badge/NLP-555555?style=flat-square&logo=nlp&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-555555?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-555555?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-555555?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-555555?style=flat-square&logo=pandas&logoColor=white)
+
+#### **Large Language Models (LLMs) & GPTs**
+![GPTs](https://img.shields.io/badge/GPTs-555555?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-555555?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-555555?style=flat-square&logo=google&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-555555?style=flat-square&logo=meta&logoColor=white)
 
 #### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=flat-square&logo=postgresql&logoColor=white)
@@ -52,11 +45,24 @@ I am a passionate AI expert, specializing in developing intelligent systems and 
 ![Google Cloud](https://img.shields.io/badge/GCP-555555?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-555555?style=flat-square&logo=microsoft-azure&logoColor=white)
 
+#### **Frontend Development**
+![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat-square&logo=css3&logoColor=white)
+
+#### **Backend Development**
+![REST API](https://img.shields.io/badge/REST_API-555555?style=flat-square&logo=api&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-555555?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-555555?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-555555?style=flat-square&logo=graphql&logoColor=white)
+
 #### **Web/Graphic Design**
 ![Figma](https://img.shields.io/badge/Figma-555555?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-555555?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-555555?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-555555?style=flat-square&logo=coreldraw&logoColor=white)
+
 
 ---
 
