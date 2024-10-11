@@ -57,7 +57,7 @@ I am a passionate AI expert, specializing in developing intelligent systems and 
 ---
 
 ### 🚀 Projects
-- **[EnhanceMatch: Revolutionizing Recruitment with AI](https://improvetogrow.nl)**  
+- **<a href="https://improvetogrow.nl" target="_blank">EnhanceMatch: Revolutionizing Recruitment with AI</a>**  
   Developed for **Improve to Grow**, EnhanceMatch is an AI-powered system that integrates matching algorithms and agents to streamline recruitment processes by automatically matching candidates’ CVs with job applications.
 
   
