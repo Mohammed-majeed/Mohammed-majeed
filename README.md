@@ -52,14 +52,11 @@ I am a passionate AI expert, specializing in developing intelligent systems and 
 ![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=node.js&logoColor=white)
 
 
-
-
 ---
 
 ### 🚀 Projects
-- **<a href="https://improvetogrow.nl" target="_blank">EnhanceMatch: Revolutionizing Recruitment with AI</a>**  
+- **<a href="https://improvetogrow.nl" target="_blank" rel="noopener noreferrer">EnhanceMatch: Revolutionizing Recruitment with AI</a>**  
   Developed for **Improve to Grow**, EnhanceMatch is an AI-powered system that integrates matching algorithms and agents to streamline recruitment processes by automatically matching candidates’ CVs with job applications.
-
   
 - **[Minions: Enabling Intuitive Swarm Control with Natural Language Models](#)**  
   Developed as part of my Master's thesis at Vrije Universiteit Amsterdam, this project integrates Large Language Models (LLMs) with Behavior Trees (BTs) to allow non-expert users to control robotic swarms through natural language commands. Minions addresses key challenges in swarm robotics, such as programming complexity and coordination across multiple agents, making it more accessible for users without technical expertise. Applications include search and rescue, agricultural monitoring, and environmental sensing. The system was evaluated using models like LLAMA-3, Mistral, and WestLake, showing significant improvements in command translation and execution in real-time swarm scenarios.
