@@ -56,7 +56,7 @@ I am a passionate AI expert, specializing in developing intelligent systems and 
 
 ### 🚀 Projects
 - **<a href="https://improvetogrow.nl" target="_blank" rel="noopener noreferrer">EnhanceMatch: Revolutionizing Recruitment with AI</a>**
-  Designed and implemented an AI-driven recruitment platform for **Improve to Grow** that leverages advanced filtering algorithms and intelligent agents to automate matching candidates’ CVs with job applications. This innovative solution streamlines the recruitment process by delivering faster, more precise matches—significantly reducing time-to-hire and boosting overall efficiency. The system was built directly within ZohoCRM using the Deluge language, ensuring seamless native integration for effective candidate management.
+Designed and implemented an AI-driven recruitment platform for **Improve to Grow** that leverages advanced filtering algorithms and intelligent agents to automate matching candidates’ CVs with job applications. This innovative solution streamlines the recruitment process by delivering faster, more precise matches—significantly reducing time-to-hire and boosting overall efficiency. The system was built directly within ZohoCRM using the Deluge language, ensuring seamless native integration for effective candidate management.
 
   
 - **[Minions: Enabling Intuitive Swarm Control with Natural Language Models](#)**  
