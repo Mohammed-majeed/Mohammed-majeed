@@ -55,8 +55,9 @@ I am a passionate AI expert, specializing in developing intelligent systems and 
 ---
 
 ### 🚀 Projects
-- **<a href="https://improvetogrow.nl" target="_blank" rel="noopener noreferrer">EnhanceMatch: Revolutionizing Recruitment with AI</a>**  
-  Developed for **Improve to Grow**, EnhanceMatch is an AI-powered system that integrates matching algorithms and agents to streamline recruitment processes by automatically matching candidates’ CVs with job applications.
+- **<a href="https://improvetogrow.nl" target="_blank" rel="noopener noreferrer">EnhanceMatch: Revolutionizing Recruitment with AI</a>**
+Designed and implemented an AI-driven recruitment platform for **Improve to Grow** that leverages advanced filtering algorithms and intelligent agents to automate matching candidates’ CVs with job applications. This innovative solution streamlines the recruitment process by delivering faster, more precise matches—significantly reducing time-to-hire and boosting overall efficiency. The system was built directly within ZohoCRM using the Deluge language, ensuring seamless native integration for effective candidate management.
+
   
 - **[Minions: Enabling Intuitive Swarm Control with Natural Language Models](#)**  
   Developed as part of my Master's thesis at Vrije Universiteit Amsterdam, this project integrates Large Language Models (LLMs) with Behavior Trees (BTs) to allow non-expert users to control robotic swarms through natural language commands. Minions addresses key challenges in swarm robotics, such as programming complexity and coordination across multiple agents, making it more accessible for users without technical expertise. Applications include search and rescue, agricultural monitoring, and environmental sensing. The system was evaluated using models like LLAMA-3, Mistral, and WestLake, showing significant improvements in command translation and execution in real-time swarm scenarios.
